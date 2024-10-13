@@ -123,7 +123,7 @@ sections:
       - type: Label
         label: Lua
       - type: Label
-        label: Pancakes
+        label: Rust
       - type: Label
         label: C++
       - type: Label
