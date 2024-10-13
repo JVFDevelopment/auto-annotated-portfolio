@@ -115,7 +115,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: React
+        label: JavaScript
       - type: Label
         label: Microsoft Office
       - type: Label
