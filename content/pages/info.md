@@ -13,11 +13,53 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Hi, I’m Joseph, a dedicated and passionate software engineering student
+      with a deep interest in creating innovative and functional digital
+      solutions. My journey into the world of software development started with
+      curiosity and a desire to understand how the technology we use every day
+      works. Over time, that curiosity transformed into a full-blown passion,
+      leading me to pursue software engineering as a career path.
+
+
+      I have experience in a wide range of programming languages, including
+      Python, JavaScript, HTML, and CSS, and I’ve worked on various projects
+      that demonstrate my versatility and creativity. One of my core strengths
+      is front-end development, where I focus on building interactive,
+      user-friendly websites and applications that provide a seamless
+      experience. From real-time quiz games to dynamic web pages, I enjoy the
+      challenge of turning ideas into reality through code.
+
+
+      While front-end development is a big part of what I do, I’m always eager
+      to expand my skill set. I’ve dabbled in backend development, exploring Lua
+      for game development on Roblox, and experimenting with Rust for building
+      efficient systems. My projects, like **Clicker Gods**, **Crypt
+      Crusaders**, and **minimod**, showcase my ability to adapt and work across
+      different technologies while delivering high-quality results.
+
+
+      I’m a firm believer in learning by doing, which is why I constantly push
+      myself to take on new challenges. Whether I’m building a Discord bot to
+      help server admins or creating a game that engages players, I’m always
+      looking for ways to improve my skills and solve real-world problems. As I
+      continue to grow in my software engineering journey, I aim to develop
+      projects that not only work well but also bring value to users and
+      communities.
+
+
+      Outside of coding, I enjoy collaborating with others, whether it’s through
+      open-source contributions or working on team-based projects. I believe
+      that the best solutions often come from a blend of perspectives and
+      skills, and I’m always open to learning from others. This collaborative
+      spirit drives me to be an active member of various developer communities.
+
+
+      Thank you for visiting my portfolio! Feel free to explore my projects, and
+      if you’d like to connect, don’t hesitate to reach out. I’m always excited
+      to discuss new ideas, collaborate on projects, or simply share insights
+      about the world of software development.
+
     media:
       type: ImageBlock
       url: /images/about.jpg
