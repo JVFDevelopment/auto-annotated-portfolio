@@ -117,7 +117,7 @@ sections:
       - type: Label
         label: JavaScript
       - type: Label
-        label: Microsoft Office
+        label: Python
       - type: Label
         label: Next.js
       - type: Label
