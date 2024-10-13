@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: JoSeph Fiore | Software engineer student
+    title: JoSeph Fiore | Hobby game developer and Software engineer student
     subtitle: >-
       Hi, I'm Joseph, a passionate software engineering student with a strong
       focus on front-end development and an eagerness to learn and grow in the
