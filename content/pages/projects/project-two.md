@@ -12,7 +12,7 @@ description: >-
   strength. Are you ready to claim your place among the Clicker Gods?
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/noFilter.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
