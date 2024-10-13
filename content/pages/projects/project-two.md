@@ -16,7 +16,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/noFilter.png
   altText: Project image
 ---
 **Clicker Gods** is a Roblox clicker game, built entirely using Lua, that takes players on a journey to achieve godlike status through strategic clicking and progression. The game's core mechanics are centred around progressively clicking to accumulate divine energy, which players can use to unlock various upgrades, summon mythical creatures, and ascend to higher godly tiers.
