@@ -11,7 +11,7 @@ description: >-
   in this thrilling adventure! Will you emerge as the ultimate crusader?
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/image1_0 (1).jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
