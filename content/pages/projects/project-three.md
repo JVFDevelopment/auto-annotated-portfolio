@@ -5,9 +5,10 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Crypt Crusaders is an action-packed dungeon crawler where players team up to
+  explore mysterious crypts, defeat powerful bosses, and collect epic loot.
+  Upgrade your gear, enhance your abilities, and battle through waves of enemies
+  in this thrilling adventure! Will you emerge as the ultimate crusader?
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
