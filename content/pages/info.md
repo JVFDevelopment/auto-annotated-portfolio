@@ -121,7 +121,7 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: Netlify
+        label: Lua
       - type: Label
         label: Pancakes
       - type: Label
