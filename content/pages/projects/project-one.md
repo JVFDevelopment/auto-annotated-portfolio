@@ -5,9 +5,10 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  MiniMod is a lightweight, user-friendly Discord bot designed to help server
+  admins manage communities efficiently. With powerful moderation tools,
+  customizable commands, and real-time monitoring, MiniMod keeps your server
+  safe and organized without the hassle.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
