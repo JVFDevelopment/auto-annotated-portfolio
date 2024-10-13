@@ -11,7 +11,7 @@ description: >-
   safe and organized without the hassle.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/image0_0.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
