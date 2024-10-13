@@ -5,7 +5,11 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Clicker Gods is an exciting clicker game where you rise to divine power by
+  clicking your way to the top! Unlock powerful upgrades, ascend through divine
+  realms, and harness godly abilities to become the ultimate deity. Compete with
+  other players, summon mythical creatures, and conquer challenges to prove your
+  strength. Are you ready to claim your place among the Clicker Gods?
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
