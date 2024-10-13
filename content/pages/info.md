@@ -125,7 +125,7 @@ sections:
       - type: Label
         label: Rust
       - type: Label
-        label: C++
+        label: C#
       - type: Label
         label: Swift
   - type: DividerSection
