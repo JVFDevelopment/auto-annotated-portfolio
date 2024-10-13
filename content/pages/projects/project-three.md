@@ -15,7 +15,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/image1_0 (1).jpg
   altText: Project image
 ---
 **Crypt Crusaders** is a Roblox dungeon crawler, inspired by games like Dungeon Quest and Fabled Legacy, where players embark on dangerous expeditions into crypts filled with enemies, traps, and treasure. The game combines fast-paced combat with strategic team-based gameplay, all built using Lua scripting to create an immersive and highly re-playable experience.
