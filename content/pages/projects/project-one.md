@@ -15,7 +15,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/image0_0.jpg
   altText: Project image
 ---
 **minimod** is a lightweight Discord moderation bot built to simplify server management and enhance the experience for community administrators. Developed with flexibility and ease of use in mind, **minimod** offers a comprehensive suite of moderation tools that enable server admins to maintain order, enforce rules, and keep their communities safe with minimal effort.
