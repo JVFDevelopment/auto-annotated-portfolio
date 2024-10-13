@@ -60,10 +60,6 @@ sections:
       to discuss new ideas, collaborate on projects, or simply share insights
       about the world of software development.
 
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
     styles:
       self:
         height: auto
