@@ -15,9 +15,17 @@ sections:
     backgroundSize: full
     title: JoSeph Fiore | Software engineer student
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Hi, I'm Joseph, a passionate software engineering student with a strong
+      focus on front-end development and an eagerness to learn and grow in the
+      tech industry. My journey began with learning languages like Python,
+      JavaScript, and HTML/CSS, and I enjoy building interactive projects that
+      combine creativity with functionality.I'm currently exploring various
+      technologies, including Lua and Rust, and have completed projects like a
+      Rock-Paper-Scissors game, a scientific calculator website, and a Discord
+      security bot. My goal is to continually expand my skills and create
+      innovative solutions that enhance user experiences.When I'm not coding, I
+      love taking on new challenges and collaborating with others to bring ideas
+      to life. Feel free to check out my projects and connect with me!
     styles:
       self:
         height: auto
